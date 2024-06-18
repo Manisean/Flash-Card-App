@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Hello</string>
+	<string>Bonjour</string>
+	<string>Goodbye</string>
+	<string>Au Revoir</string>
+	<string>Cheese</string>
+	<string>Fromage</string>
+	<string>Dictionary</string>
+	<string>Dictionnaire</string>
+	<string>Fish</string>
+	<string>Poisson</string>
+	<string>Goddess</string>
+	<string>Deesse</string>
+	<string>Stick</string>
+	<string>Baton</string>
+	<string>Car</string>
+	<string>Voiture</string>
+	<string>Playtime</string>
+	<string>Recreation</string>
+	<string>Forgotten</string>
+	<string>Oubliee</string>
+</array>
+</plist>
